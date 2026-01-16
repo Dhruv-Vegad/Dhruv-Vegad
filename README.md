@@ -33,7 +33,7 @@ I'm a passionate DevOps engineer and cloud architect with expertise in infrastru
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Scripting & Automation
-![Python](https://img.shields.io/badge/python-3670A0? style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Coming Soon
 - ☸️ Kubernetes Orchestration
@@ -46,7 +46,7 @@ I'm a passionate DevOps engineer and cloud architect with expertise in infrastru
 ## 📊 GitHub Stats: 
 
 ### Contribution Streak
-![](https://github-readme-streak-stats.herokuapp.com/? user=Dhruv-Vegad&theme=darcula&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-Vegad&theme=darcula&hide_border=false)
 
 ---
 
@@ -89,9 +89,9 @@ I'm a passionate DevOps engineer and cloud architect with expertise in infrastru
 ---
 
 ## 🌐 Socials & Contact:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg? logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-vegad)
-[![Email](https://img.shields.io/badge/Email-D14836? logo=gmail&logoColor=white)](mailto:dhruvavegad@gmail. com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg? logo=github&logoColor=white)](https://github.com/Dhruv-Vegad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-vegad)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvavegad@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Dhruv-Vegad)
 
 ---
 
@@ -108,7 +108,7 @@ Feel free to reach out via **LinkedIn** or **Email** for collaboration opportuni
 ---
 
 ## 🎖️ Visitor Count
-![Visitors](https://komarev.com/ghpvc/?username=Dhruv-Vegad&style=flat-square&color=0969da)
+![Profile Views](https://komarev.com/ghpvc/?username=Dhruv-Vegad&color=blue)
 
 ---
 
