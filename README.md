@@ -46,7 +46,7 @@ I'm a passionate DevOps engineer and cloud architect with expertise in infrastru
 ## 📊 GitHub Stats: 
 
 ### Contribution Streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-Vegad&theme=darcula&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Dhruv-Vegad&theme=darcula&hide_border=false)
 
 ---
 
