@@ -78,7 +78,6 @@ I'm a passionate DevOps engineer and cloud architect with expertise in infrastru
 Check out my repositories to see what I'm working on: 
 - Infrastructure automation scripts
 - DevOps tools and utilities
-- Configuration management solutions
 - Cloud architecture examples
 
 ---
